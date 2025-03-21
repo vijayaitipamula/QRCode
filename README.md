@@ -10,3 +10,17 @@ Fast and efficient QR code creation
 
 Prerequisites
 Ensure that Python is installed on your system. You can download it from python.org.
+
+Installation
+Clone the repository:
+git clone https://github.com/vijayaitipamula/QRcode.git
+cd QRcode
+Install required dependencies:
+pip install -r requirements.txt
+
+Usage
+Run the script to generate a QR code:
+python qrcode_generator.py
+
+Example Output
+A QR code image will be saved in the output directory. The QR code can be scanned using any QR code scanner on mobile devices or other QR scanning tools.
